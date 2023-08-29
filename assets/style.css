@@ -1,0 +1,32 @@
+h2{
+    text-align: center;
+}
+.slick-slider .element{
+    width:90%;
+    background-color:#000;
+    color:#fff;
+    border-radius:5px;
+    display:inline-block;
+    margin:0px 10px;    
+    font-size:20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.slick-slider button{
+    display: inline-block;
+    bottom: -20px;
+    position: relative;
+    left: 43%;
+}
+.slick-slider button.slick-next{
+    left: 45%;
+}
+.slick-dots{
+    padding-left: 0;
+    text-align: center;
+}
+.slick-dots li{
+    display: inline-block;
+    list-style: none;
+}
